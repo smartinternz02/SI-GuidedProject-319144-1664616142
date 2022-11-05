@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "af4b80b535bb20765eb6ee5413451be9",
+        "name": "rosacea%20(9).jpg",
+        "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(9).jpg",
+        "size": {
+            "width": 637,
+            "height": 251
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "qbAb2RFm5",
+            "type": "RECTANGLE",
+            "tags": [
+                "Rosacea"
+            ],
+            "boundingBox": {
+                "height": 144.04179067000075,
+                "width": 245.00918098599863,
+                "left": 42.86467822288506,
+                "top": 17.3046966697711
+            },
+            "points": [
+                {
+                    "x": 42.86467822288506,
+                    "y": 17.3046966697711
+                },
+                {
+                    "x": 287.8738592088837,
+                    "y": 17.3046966697711
+                },
+                {
+                    "x": 287.8738592088837,
+                    "y": 161.34648733977184
+                },
+                {
+                    "x": 42.86467822288506,
+                    "y": 161.34648733977184
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

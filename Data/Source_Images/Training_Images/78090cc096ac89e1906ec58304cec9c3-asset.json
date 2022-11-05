@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "78090cc096ac89e1906ec58304cec9c3",
+        "name": "melanoma%20(101).jpg",
+        "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(101).jpg",
+        "size": {
+            "width": 348,
+            "height": 286
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "wfaXfN7mU",
+            "type": "RECTANGLE",
+            "tags": [
+                "melanoma"
+            ],
+            "boundingBox": {
+                "height": 129.58870796160508,
+                "width": 204.7628942786126,
+                "left": 70.50835020414915,
+                "top": 87.57740852657685
+            },
+            "points": [
+                {
+                    "x": 70.50835020414915,
+                    "y": 87.57740852657685
+                },
+                {
+                    "x": 275.27124448276174,
+                    "y": 87.57740852657685
+                },
+                {
+                    "x": 275.27124448276174,
+                    "y": 217.16611648818193
+                },
+                {
+                    "x": 70.50835020414915,
+                    "y": 217.16611648818193
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

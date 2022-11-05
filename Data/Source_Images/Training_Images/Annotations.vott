@@ -1,0 +1,3617 @@
+{
+    "name": "Annotations",
+    "securityToken": "Annotations Token",
+    "sourceConnection": {
+        "name": "Images",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYzI1ZmQ4YWM0ODg3MzIyZDZlM2NjYjM0NGJkMDBhYTA4NTEyYTU2ZWU3ZDM1MTA0ZjM3NmNiZTBlMWM2ZmQ5Y2Q3OTc5YmU3YTUyZjJjOTg2NDAzODQ1NzI3ODk5OTYzNjliYjAyNDQ4MGU1ZGMyOGExYTExNmIzYmE4OGMxZWY4ZjkzOWFhYmU0NGU3ZGIxMzNmYWExZWFjYzA3YWI5M2FkNGVhYTAxZTIzZWNkYmZhZWM5YTRjMDNmZmM1NTY1IiwiaXYiOiJkMDI2NmY5MjkxMzlkMDg1M2U2ODE3NzE5ZDE1ZTIxMmExZGIyNDIxYTg0NGZiYzYifQ=="
+        },
+        "id": "1kzO_p8ga"
+    },
+    "targetConnection": {
+        "name": "Images",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMjFiYWQzZTA5MzA3ZjNkMWYxZjllOTQ3NjU5NGYwZWU0NjE1MmYwMTkzMzEwNmY3YjM3ZDRkNDZkNDhlYjRjMWY5ODU4MjE5NTk0YzZkNjU2ZTRkYzc3YjI2N2ZlNGU2ZTA5ZjJkOWU0OTFiMmU3YWMzM2M5MWY3NWY0ZTk0NTNlOTc3N2Y4NGE2NzQxYTQ3NzQ5ZDkzMjRhMDBhZDY3YzQ2Yjk1ODk0ODQ3NDM2N2MwZmRlMGFmNTI0NWRhZDNlIiwiaXYiOiJiMDY0NTc2ODY0Nzk5ZWMyYmE4Yzg5MzI1NjQ5MDliODllNTRlZGJiYzBiZWE0NTkifQ=="
+        },
+        "id": "1kzO_p8ga"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "Rosacea",
+            "color": "#FF00FF"
+        },
+        {
+            "name": "psoriasis",
+            "color": "#00FFFF"
+        },
+        {
+            "name": "melanoma",
+            "color": "#008080"
+        }
+    ],
+    "id": "mrtihabOd",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "csv",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZDAzNjM5MjU5YjJjMjFmOTllMWYxYTY1M2E1NzE2ODcwZmM2MGIwYmY5MDY5NDEzYzA2NzUyNDIxZWYwYmUxYzJlZGRkNzgxN2M2ZDdkMmUwZmI0NTI3ZDhmZDcyYTYwIiwiaXYiOiIzMmM0OWU5NzlmNWEzNjlkYTY3ZmMxYjY1MDA3MDFkMWQxYzkzN2E3NGVlNjUxOWMifQ=="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "af4b80b535bb20765eb6ee5413451be9",
+    "assets": {
+        "15267ea858b0beaa948824f46571b32f": {
+            "format": "jpg",
+            "id": "15267ea858b0beaa948824f46571b32f",
+            "name": "melanoma%20(1).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(1).jpg",
+            "size": {
+                "width": 544,
+                "height": 363
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9f6f2dd80cb41209e571f2fb45be6652": {
+            "format": "jpg",
+            "id": "9f6f2dd80cb41209e571f2fb45be6652",
+            "name": "psoriasis%20(195).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(195).jpg",
+            "size": {
+                "width": 300,
+                "height": 293
+            },
+            "state": 2,
+            "type": 1
+        },
+        "919d98ff76f03867f1e3f10037edd729": {
+            "format": "jpg",
+            "id": "919d98ff76f03867f1e3f10037edd729",
+            "name": "psoriasis%20(197).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(197).jpg",
+            "size": {
+                "width": 493,
+                "height": 335
+            },
+            "state": 2,
+            "type": 1
+        },
+        "48a4685d043a9ec7330027f16a8f4d8a": {
+            "format": "jpg",
+            "id": "48a4685d043a9ec7330027f16a8f4d8a",
+            "name": "psoriasis%20(200).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(200).jpg",
+            "size": {
+                "width": 642,
+                "height": 361
+            },
+            "state": 2,
+            "type": 1
+        },
+        "309727ffcd55c876565e15b51c3435eb": {
+            "format": "jpg",
+            "id": "309727ffcd55c876565e15b51c3435eb",
+            "name": "psoriasis%20(201).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(201).jpg",
+            "size": {
+                "width": 766,
+                "height": 415
+            },
+            "state": 2,
+            "type": 1
+        },
+        "424be9c9249ad086f47dd7673fb816f2": {
+            "format": "jpg",
+            "id": "424be9c9249ad086f47dd7673fb816f2",
+            "name": "psoriasis%20(209).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(209).jpg",
+            "size": {
+                "width": 580,
+                "height": 400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ec324166f22847119c5cec8045dbaeb5": {
+            "format": "jpg",
+            "id": "ec324166f22847119c5cec8045dbaeb5",
+            "name": "psoriasis%20(220).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(220).jpg",
+            "size": {
+                "width": 620,
+                "height": 415
+            },
+            "state": 2,
+            "type": 1
+        },
+        "761bf90822e7e709d58d2e41d4031e28": {
+            "format": "jpg",
+            "id": "761bf90822e7e709d58d2e41d4031e28",
+            "name": "psoriasis%20(224).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(224).jpg",
+            "size": {
+                "width": 266,
+                "height": 400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dc3c52adb3fab68a5d940a5fb3a8be6a": {
+            "format": "jpg",
+            "id": "dc3c52adb3fab68a5d940a5fb3a8be6a",
+            "name": "psoriasis%20(233).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(233).jpg",
+            "size": {
+                "width": 294,
+                "height": 222
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7fb107442d7e2be3f354778c9c949d6f": {
+            "format": "jpg",
+            "id": "7fb107442d7e2be3f354778c9c949d6f",
+            "name": "psoriasis%20(234).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(234).jpg",
+            "size": {
+                "width": 860,
+                "height": 605
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3d1fa992756f99d23dc99eac54cd5cea": {
+            "format": "jpg",
+            "id": "3d1fa992756f99d23dc99eac54cd5cea",
+            "name": "melanoma%20(100).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(100).jpg",
+            "size": {
+                "width": 350,
+                "height": 233
+            },
+            "state": 2,
+            "type": 1
+        },
+        "78090cc096ac89e1906ec58304cec9c3": {
+            "format": "jpg",
+            "id": "78090cc096ac89e1906ec58304cec9c3",
+            "name": "melanoma%20(101).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(101).jpg",
+            "size": {
+                "width": 348,
+                "height": 286
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ab3995e52aa926d267823231ca1e3681": {
+            "format": "jpg",
+            "id": "ab3995e52aa926d267823231ca1e3681",
+            "name": "melanoma%20(102).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(102).jpg",
+            "size": {
+                "width": 2048,
+                "height": 1536
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4b7d0b3bf7a06f676ef17de3374fcd2b": {
+            "format": "jpg",
+            "id": "4b7d0b3bf7a06f676ef17de3374fcd2b",
+            "name": "melanoma%20(105).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(105).jpg",
+            "size": {
+                "width": 401,
+                "height": 258
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6b9016a432c66adcdd1c2d70f4fdc346": {
+            "format": "jpg",
+            "id": "6b9016a432c66adcdd1c2d70f4fdc346",
+            "name": "melanoma%20(104).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(104).jpg",
+            "size": {
+                "width": 992,
+                "height": 641
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9096e017af3cc389cfea39ef2b193477": {
+            "format": "jpg",
+            "id": "9096e017af3cc389cfea39ef2b193477",
+            "name": "melanoma%20(103).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(103).jpg",
+            "size": {
+                "width": 650,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cb94a8b4ac769491659fcfbad3082862": {
+            "format": "jpg",
+            "id": "cb94a8b4ac769491659fcfbad3082862",
+            "name": "melanoma%20(106).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(106).jpg",
+            "size": {
+                "width": 640,
+                "height": 400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d856772998034549c45fef897ac0e114": {
+            "format": "jpg",
+            "id": "d856772998034549c45fef897ac0e114",
+            "name": "melanoma%20(107).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(107).jpg",
+            "size": {
+                "width": 650,
+                "height": 428
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ce2f789b2a3e3f6e40a19ffdef6dc377": {
+            "format": "jpg",
+            "id": "ce2f789b2a3e3f6e40a19ffdef6dc377",
+            "name": "melanoma%20(108).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(108).jpg",
+            "size": {
+                "width": 700,
+                "height": 397
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a7310d2e59984407bdb53d92b1982051": {
+            "format": "jpg",
+            "id": "a7310d2e59984407bdb53d92b1982051",
+            "name": "melanoma%20(109).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(109).jpg",
+            "size": {
+                "width": 968,
+                "height": 681
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a9da303f970dea15bd5ebb32d01b7f03": {
+            "format": "jpg",
+            "id": "a9da303f970dea15bd5ebb32d01b7f03",
+            "name": "melanoma%20(110).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(110).jpg",
+            "size": {
+                "width": 600,
+                "height": 400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a5b325076a20a4e04d7bb7d997cffb87": {
+            "format": "jpg",
+            "id": "a5b325076a20a4e04d7bb7d997cffb87",
+            "name": "melanoma%20(111).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(111).jpg",
+            "size": {
+                "width": 650,
+                "height": 433
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9ecc916288cd752b75ddcc6dd52971be": {
+            "format": "jpg",
+            "id": "9ecc916288cd752b75ddcc6dd52971be",
+            "name": "melanoma%20(112).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(112).jpg",
+            "size": {
+                "width": 700,
+                "height": 1097
+            },
+            "state": 2,
+            "type": 1
+        },
+        "05f8a9b5d0c1fbe50c407a0d168ed773": {
+            "format": "jpg",
+            "id": "05f8a9b5d0c1fbe50c407a0d168ed773",
+            "name": "melanoma%20(113).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(113).jpg",
+            "size": {
+                "width": 480,
+                "height": 305
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2dbfb846bb702211604bdf19ffa00bf6": {
+            "format": "jpg",
+            "id": "2dbfb846bb702211604bdf19ffa00bf6",
+            "name": "melanoma%20(114).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(114).jpg",
+            "size": {
+                "width": 800,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3fffdb7fb3eac5db0f9d3b1c244ef33b": {
+            "format": "jpg",
+            "id": "3fffdb7fb3eac5db0f9d3b1c244ef33b",
+            "name": "melanoma%20(115).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(115).jpg",
+            "size": {
+                "width": 1200,
+                "height": 400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c9a607dae39d98fa504248d0e6c66d53": {
+            "format": "jpg",
+            "id": "c9a607dae39d98fa504248d0e6c66d53",
+            "name": "melanoma%20(116).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(116).jpg",
+            "size": {
+                "width": 470,
+                "height": 270
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8e7d5bc83fdf4d53f8b1085e060f0a26": {
+            "format": "jpg",
+            "id": "8e7d5bc83fdf4d53f8b1085e060f0a26",
+            "name": "melanoma%20(117).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(117).jpg",
+            "size": {
+                "width": 406,
+                "height": 406
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8a24436b7471d36ebb363e27d77694bd": {
+            "format": "jpg",
+            "id": "8a24436b7471d36ebb363e27d77694bd",
+            "name": "melanoma%20(118).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(118).jpg",
+            "size": {
+                "width": 410,
+                "height": 230
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1194e7f8368a971f64ddd49c9cb45d23": {
+            "format": "jpg",
+            "id": "1194e7f8368a971f64ddd49c9cb45d23",
+            "name": "melanoma%20(119).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(119).jpg",
+            "size": {
+                "width": 410,
+                "height": 230
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c7db3ba500a4b5c7f9e4c656e5fd11cf": {
+            "format": "jpg",
+            "id": "c7db3ba500a4b5c7f9e4c656e5fd11cf",
+            "name": "melanoma%20(120).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(120).jpg",
+            "size": {
+                "width": 410,
+                "height": 230
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fc49527334c40e345ead4f051aa9f123": {
+            "format": "jpg",
+            "id": "fc49527334c40e345ead4f051aa9f123",
+            "name": "melanoma%20(121).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(121).jpg",
+            "size": {
+                "width": 444,
+                "height": 326
+            },
+            "state": 2,
+            "type": 1
+        },
+        "786ce1affeaa6532c7b2999818e1e17c": {
+            "format": "jpg",
+            "id": "786ce1affeaa6532c7b2999818e1e17c",
+            "name": "melanoma%20(122).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(122).jpg",
+            "size": {
+                "width": 600,
+                "height": 400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "529379d7b29aba76307fb1f2afa6b60b": {
+            "format": "jpg",
+            "id": "529379d7b29aba76307fb1f2afa6b60b",
+            "name": "melanoma%20(123).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(123).jpg",
+            "size": {
+                "width": 294,
+                "height": 222
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c382df743e18b24f8bd8f48a8cf33827": {
+            "format": "jpg",
+            "id": "c382df743e18b24f8bd8f48a8cf33827",
+            "name": "melanoma%20(63).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(63).jpg",
+            "size": {
+                "width": 700,
+                "height": 1003
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9c7df5ec8f32fb36d58bf1b10fd2bfa0": {
+            "format": "jpg",
+            "id": "9c7df5ec8f32fb36d58bf1b10fd2bfa0",
+            "name": "melanoma%20(64).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(64).jpg",
+            "size": {
+                "width": 642,
+                "height": 361
+            },
+            "state": 2,
+            "type": 1
+        },
+        "55bf2c857c7f38d1fe7026f787def025": {
+            "format": "jpg",
+            "id": "55bf2c857c7f38d1fe7026f787def025",
+            "name": "melanoma%20(65).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(65).jpg",
+            "size": {
+                "width": 1200,
+                "height": 835
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b47975a6ec3bfe9b590dc7381700f969": {
+            "format": "jpg",
+            "id": "b47975a6ec3bfe9b590dc7381700f969",
+            "name": "melanoma%20(66).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(66).jpg",
+            "size": {
+                "width": 252,
+                "height": 380
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b341afd6e0a373eb326fdf353cade240": {
+            "format": "jpg",
+            "id": "b341afd6e0a373eb326fdf353cade240",
+            "name": "melanoma%20(67).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(67).jpg",
+            "size": {
+                "width": 1100,
+                "height": 825
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0eb0ceedeeaa95be4a6539429aa1cbb5": {
+            "format": "jpg",
+            "id": "0eb0ceedeeaa95be4a6539429aa1cbb5",
+            "name": "melanoma%20(68).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(68).jpg",
+            "size": {
+                "width": 580,
+                "height": 386
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a9d72cd0458b5ef86ce753cbaa9f117c": {
+            "format": "jpg",
+            "id": "a9d72cd0458b5ef86ce753cbaa9f117c",
+            "name": "melanoma%20(69).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(69).jpg",
+            "size": {
+                "width": 584,
+                "height": 583
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4c7bb5584f19c806addeb8658180e032": {
+            "format": "jpg",
+            "id": "4c7bb5584f19c806addeb8658180e032",
+            "name": "melanoma%20(70).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(70).jpg",
+            "size": {
+                "width": 584,
+                "height": 583
+            },
+            "state": 2,
+            "type": 1
+        },
+        "abb97e2795e18204e020429e60f5fdb3": {
+            "format": "jpg",
+            "id": "abb97e2795e18204e020429e60f5fdb3",
+            "name": "melanoma%20(71).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(71).jpg",
+            "size": {
+                "width": 920,
+                "height": 613
+            },
+            "state": 2,
+            "type": 1
+        },
+        "13e258851b9f80d2c8bc16de9f7db2e9": {
+            "format": "jpg",
+            "id": "13e258851b9f80d2c8bc16de9f7db2e9",
+            "name": "melanoma%20(72).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(72).jpg",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "84e46c84c1e13337c33cd1c20d47fe73": {
+            "format": "jpg",
+            "id": "84e46c84c1e13337c33cd1c20d47fe73",
+            "name": "melanoma%20(73).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(73).jpg",
+            "size": {
+                "width": 1155,
+                "height": 648
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b1915f02a3050c62fa9b72f7bb3068f6": {
+            "format": "JPG",
+            "id": "b1915f02a3050c62fa9b72f7bb3068f6",
+            "name": "melanoma%20(74).JPG",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(74).JPG",
+            "size": {
+                "width": 294,
+                "height": 222
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3fbcbc9c078f9d515b95406b202a91a2": {
+            "format": "JPG",
+            "id": "3fbcbc9c078f9d515b95406b202a91a2",
+            "name": "melanoma%20(75).JPG",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(75).JPG",
+            "size": {
+                "width": 1170,
+                "height": 611
+            },
+            "state": 2,
+            "type": 1
+        },
+        "51f274b2556c3e92cf24f9ef29dfd7b3": {
+            "format": "jpg",
+            "id": "51f274b2556c3e92cf24f9ef29dfd7b3",
+            "name": "melanoma%20(76).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(76).jpg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9fec8074f95c07a9632a4c8871a6d2bb": {
+            "format": "jpg",
+            "id": "9fec8074f95c07a9632a4c8871a6d2bb",
+            "name": "melanoma%20(77).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(77).jpg",
+            "size": {
+                "width": 722,
+                "height": 406
+            },
+            "state": 2,
+            "type": 1
+        },
+        "629f360f13a2a6cb055a385cd74f1d4e": {
+            "format": "jpg",
+            "id": "629f360f13a2a6cb055a385cd74f1d4e",
+            "name": "melanoma%20(78).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(78).jpg",
+            "size": {
+                "width": 300,
+                "height": 248
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7986d6f4e9df22ca4113935e7badeb80": {
+            "format": "jpg",
+            "id": "7986d6f4e9df22ca4113935e7badeb80",
+            "name": "melanoma%20(79).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(79).jpg",
+            "size": {
+                "width": 800,
+                "height": 534
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dfed28d519f67d73011694bdbdd0cadb": {
+            "format": "jpg",
+            "id": "dfed28d519f67d73011694bdbdd0cadb",
+            "name": "melanoma%20(80).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(80).jpg",
+            "size": {
+                "width": 1100,
+                "height": 712
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8feb20e537fadcb1e52260c4ee46b157": {
+            "format": "jpg",
+            "id": "8feb20e537fadcb1e52260c4ee46b157",
+            "name": "melanoma%20(81).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(81).jpg",
+            "size": {
+                "width": 271,
+                "height": 271
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c624bd2f5087d0226bf34ad9a1a8515b": {
+            "format": "jpg",
+            "id": "c624bd2f5087d0226bf34ad9a1a8515b",
+            "name": "melanoma%20(82).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(82).jpg",
+            "size": {
+                "width": 320,
+                "height": 358
+            },
+            "state": 2,
+            "type": 1
+        },
+        "359fec4ca32582c8e00606450a14370c": {
+            "format": "jpg",
+            "id": "359fec4ca32582c8e00606450a14370c",
+            "name": "melanoma%20(83).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(83).jpg",
+            "size": {
+                "width": 600,
+                "height": 400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "66d5f19897a7d6f8c42e1cb9d2d2f342": {
+            "format": "jpg",
+            "id": "66d5f19897a7d6f8c42e1cb9d2d2f342",
+            "name": "melanoma%20(84).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(84).jpg",
+            "size": {
+                "width": 945,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b5de4fb3d3d5184f15c0daefda288705": {
+            "format": "jpg",
+            "id": "b5de4fb3d3d5184f15c0daefda288705",
+            "name": "melanoma%20(85).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(85).jpg",
+            "size": {
+                "width": 493,
+                "height": 335
+            },
+            "state": 2,
+            "type": 1
+        },
+        "222f4af36d0eb9c87d8124ff80b4006c": {
+            "format": "jpg",
+            "id": "222f4af36d0eb9c87d8124ff80b4006c",
+            "name": "melanoma%20(86).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(86).jpg",
+            "size": {
+                "width": 493,
+                "height": 335
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ec0eb361e39793580a76d2735da8182b": {
+            "format": "jpg",
+            "id": "ec0eb361e39793580a76d2735da8182b",
+            "name": "melanoma%20(87).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(87).jpg",
+            "size": {
+                "width": 320,
+                "height": 207
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9a2896bee4a6b537ceaf869e44ea0090": {
+            "format": "jpg",
+            "id": "9a2896bee4a6b537ceaf869e44ea0090",
+            "name": "melanoma%20(88).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(88).jpg",
+            "size": {
+                "width": 650,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7351fd2cda1b0b7d4944bacec434346f": {
+            "format": "jpg",
+            "id": "7351fd2cda1b0b7d4944bacec434346f",
+            "name": "melanoma%20(89).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(89).jpg",
+            "size": {
+                "width": 400,
+                "height": 309
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1a89f2190fdf7500de8059229c574569": {
+            "format": "jpg",
+            "id": "1a89f2190fdf7500de8059229c574569",
+            "name": "melanoma%20(90).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(90).jpg",
+            "size": {
+                "width": 388,
+                "height": 393
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7dc886a751968b92d2197e7e74bca9ea": {
+            "format": "jpg",
+            "id": "7dc886a751968b92d2197e7e74bca9ea",
+            "name": "melanoma%20(91).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(91).jpg",
+            "size": {
+                "width": 1536,
+                "height": 1155
+            },
+            "state": 2,
+            "type": 1
+        },
+        "07642fff2e4c26d57010a2bd5dc8b2f0": {
+            "format": "jpg",
+            "id": "07642fff2e4c26d57010a2bd5dc8b2f0",
+            "name": "melanoma%20(92).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(92).jpg",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c3ff3c211f14c12db297cf6bbe0f0c3f": {
+            "format": "jpg",
+            "id": "c3ff3c211f14c12db297cf6bbe0f0c3f",
+            "name": "melanoma%20(93).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(93).jpg",
+            "size": {
+                "width": 360,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "69fb220916bde553dfaf2e2759304774": {
+            "format": "jpg",
+            "id": "69fb220916bde553dfaf2e2759304774",
+            "name": "melanoma%20(94).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(94).jpg",
+            "size": {
+                "width": 493,
+                "height": 335
+            },
+            "state": 2,
+            "type": 1
+        },
+        "623978f92c5006559a5eb1b49abb72e2": {
+            "format": "jpg",
+            "id": "623978f92c5006559a5eb1b49abb72e2",
+            "name": "melanoma%20(95).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(95).jpg",
+            "size": {
+                "width": 350,
+                "height": 526
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1cf91402611fd55036b4aa00aea93da5": {
+            "format": "jpg",
+            "id": "1cf91402611fd55036b4aa00aea93da5",
+            "name": "melanoma%20(96).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(96).jpg",
+            "size": {
+                "width": 1024,
+                "height": 683
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e60e3db5ea546dbb774e631ce2fa567e": {
+            "format": "jpg",
+            "id": "e60e3db5ea546dbb774e631ce2fa567e",
+            "name": "melanoma%20(97).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(97).jpg",
+            "size": {
+                "width": 493,
+                "height": 335
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7c28d4c9ed9154ac768866047b8d9819": {
+            "format": "JPG",
+            "id": "7c28d4c9ed9154ac768866047b8d9819",
+            "name": "melanoma%20(98).JPG",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(98).JPG",
+            "size": {
+                "width": 420,
+                "height": 257
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2f268a2a0d956caef8f5a3f09cac2ecf": {
+            "format": "jpg",
+            "id": "2f268a2a0d956caef8f5a3f09cac2ecf",
+            "name": "melanoma%20(99).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/melanoma%20(99).jpg",
+            "size": {
+                "width": 612,
+                "height": 408
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d3d5922ae86851403a7fe1239b08032e": {
+            "format": "jpg",
+            "id": "d3d5922ae86851403a7fe1239b08032e",
+            "name": "Psoriasis%20(1).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/Psoriasis%20(1).jpg",
+            "size": {
+                "width": 1400,
+                "height": 728
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4e43e5fd7c4b690fcdd2dcfa8955a705": {
+            "format": "jpg",
+            "id": "4e43e5fd7c4b690fcdd2dcfa8955a705",
+            "name": "psoriasis%20(12).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(12).jpg",
+            "size": {
+                "width": 5184,
+                "height": 3456
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a129d6700dddcd64b630ab2e9a328bf8": {
+            "format": "jpeg",
+            "id": "a129d6700dddcd64b630ab2e9a328bf8",
+            "name": "psoriasis%20(13).jpeg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(13).jpeg",
+            "size": {
+                "width": 5472,
+                "height": 3048
+            },
+            "state": 2,
+            "type": 1
+        },
+        "907e599e5dd68ffb7ce177642fa64a7f": {
+            "format": "jpg",
+            "id": "907e599e5dd68ffb7ce177642fa64a7f",
+            "name": "psoriasis%20(183).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(183).jpg",
+            "size": {
+                "width": 1000,
+                "height": 668
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f91e8318dee9b12cded933f47eaceb22": {
+            "format": "jpg",
+            "id": "f91e8318dee9b12cded933f47eaceb22",
+            "name": "psoriasis%20(184).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(184).jpg",
+            "size": {
+                "width": 712,
+                "height": 787
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5c171aac6065495447c79712cfce2ffd": {
+            "format": "jpg",
+            "id": "5c171aac6065495447c79712cfce2ffd",
+            "name": "psoriasis%20(185).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(185).jpg",
+            "size": {
+                "width": 493,
+                "height": 335
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d47860c1b38b63362374d18e234d065b": {
+            "format": "jpg",
+            "id": "d47860c1b38b63362374d18e234d065b",
+            "name": "psoriasis%20(186).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(186).jpg",
+            "size": {
+                "width": 493,
+                "height": 335
+            },
+            "state": 2,
+            "type": 1
+        },
+        "81daa9411237853cf15644774da09f65": {
+            "format": "jpg",
+            "id": "81daa9411237853cf15644774da09f65",
+            "name": "psoriasis%20(187).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(187).jpg",
+            "size": {
+                "width": 2024,
+                "height": 1349
+            },
+            "state": 2,
+            "type": 1
+        },
+        "af06a11991d04d5532139beaa9abb430": {
+            "format": "jpg",
+            "id": "af06a11991d04d5532139beaa9abb430",
+            "name": "psoriasis%20(188).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(188).jpg",
+            "size": {
+                "width": 410,
+                "height": 230
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a9ddb6152061fa4d8506363406e47243": {
+            "format": "jpg",
+            "id": "a9ddb6152061fa4d8506363406e47243",
+            "name": "psoriasis%20(189).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(189).jpg",
+            "size": {
+                "width": 2400,
+                "height": 1600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "98af4d5b8e7470b7bc2459be3ba03a5c": {
+            "format": "jpg",
+            "id": "98af4d5b8e7470b7bc2459be3ba03a5c",
+            "name": "psoriasis%20(190).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(190).jpg",
+            "size": {
+                "width": 324,
+                "height": 182
+            },
+            "state": 2,
+            "type": 1
+        },
+        "aa4573fecc418654670a743dd2233893": {
+            "format": "jpg",
+            "id": "aa4573fecc418654670a743dd2233893",
+            "name": "psoriasis%20(191).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(191).jpg",
+            "size": {
+                "width": 320,
+                "height": 193
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0626b36f4573cd350c6d8d1f2714b04b": {
+            "format": "jpg",
+            "id": "0626b36f4573cd350c6d8d1f2714b04b",
+            "name": "psoriasis%20(192).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(192).jpg",
+            "size": {
+                "width": 696,
+                "height": 464
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9ae0cae6fec586721981d1fe2574f250": {
+            "format": "jpg",
+            "id": "9ae0cae6fec586721981d1fe2574f250",
+            "name": "psoriasis%20(193).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(193).jpg",
+            "size": {
+                "width": 800,
+                "height": 533
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2a80c43e6d4ed3e5b74c0df41845eb69": {
+            "format": "jpg",
+            "id": "2a80c43e6d4ed3e5b74c0df41845eb69",
+            "name": "psoriasis%20(194).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(194).jpg",
+            "size": {
+                "width": 280,
+                "height": 190
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4b84e6d2f49693a60064dcf9d1dfd10f": {
+            "format": "jpg",
+            "id": "4b84e6d2f49693a60064dcf9d1dfd10f",
+            "name": "psoriasis%20(196).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(196).jpg",
+            "size": {
+                "width": 300,
+                "height": 293
+            },
+            "state": 2,
+            "type": 1
+        },
+        "117ea38d90ce05541c1591fe3a9a5ae3": {
+            "format": "jpg",
+            "id": "117ea38d90ce05541c1591fe3a9a5ae3",
+            "name": "psoriasis%20(198).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(198).jpg",
+            "size": {
+                "width": 493,
+                "height": 335
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e255c6be554783411cc52bf3a874024d": {
+            "format": "jpg",
+            "id": "e255c6be554783411cc52bf3a874024d",
+            "name": "psoriasis%20(199).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(199).jpg",
+            "size": {
+                "width": 550,
+                "height": 413
+            },
+            "state": 2,
+            "type": 1
+        },
+        "378e5d257830dcf69a1628596c7b35c7": {
+            "format": "jpg",
+            "id": "378e5d257830dcf69a1628596c7b35c7",
+            "name": "psoriasis%20(202).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(202).jpg",
+            "size": {
+                "width": 900,
+                "height": 592
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6d7dcfa4905eb35cde470ef2fbd1bf4b": {
+            "format": "jpg",
+            "id": "6d7dcfa4905eb35cde470ef2fbd1bf4b",
+            "name": "psoriasis%20(203).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(203).jpg",
+            "size": {
+                "width": 226,
+                "height": 306
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7e4e3e9543eeadf9886f732afc424bc1": {
+            "format": "jpg",
+            "id": "7e4e3e9543eeadf9886f732afc424bc1",
+            "name": "psoriasis%20(204).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(204).jpg",
+            "size": {
+                "width": 700,
+                "height": 1003
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0d57245cf2d0ec60464aac0af46f18c4": {
+            "format": "jpg",
+            "id": "0d57245cf2d0ec60464aac0af46f18c4",
+            "name": "psoriasis%20(205).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(205).jpg",
+            "size": {
+                "width": 696,
+                "height": 522
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6dad525f1c10b975c357598ba0fde724": {
+            "format": "jpg",
+            "id": "6dad525f1c10b975c357598ba0fde724",
+            "name": "psoriasis%20(206).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(206).jpg",
+            "size": {
+                "width": 1440,
+                "height": 1746
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9cf55f7ba4c21cbcef236261dbff5926": {
+            "format": "jpg",
+            "id": "9cf55f7ba4c21cbcef236261dbff5926",
+            "name": "psoriasis%20(207).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(207).jpg",
+            "size": {
+                "width": 800,
+                "height": 533
+            },
+            "state": 2,
+            "type": 1
+        },
+        "abd2c686b98c347da5be04792453ff2b": {
+            "format": "jpg",
+            "id": "abd2c686b98c347da5be04792453ff2b",
+            "name": "psoriasis%20(208).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(208).jpg",
+            "size": {
+                "width": 1920,
+                "height": 1272
+            },
+            "state": 2,
+            "type": 1
+        },
+        "78d65d33a8e31cd8cb28908f7b594769": {
+            "format": "jpg",
+            "id": "78d65d33a8e31cd8cb28908f7b594769",
+            "name": "psoriasis%20(210).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(210).jpg",
+            "size": {
+                "width": 480,
+                "height": 274
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5ee215843d11dfbb1779f4da049032be": {
+            "format": "jpg",
+            "id": "5ee215843d11dfbb1779f4da049032be",
+            "name": "psoriasis%20(214).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(214).jpg",
+            "size": {
+                "width": 2000,
+                "height": 1476
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d4c582053eab62f2a8e8b5a7575a3a0c": {
+            "format": "jpg",
+            "id": "d4c582053eab62f2a8e8b5a7575a3a0c",
+            "name": "psoriasis%20(215).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(215).jpg",
+            "size": {
+                "width": 493,
+                "height": 335
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6e7507121bfbf028d6029b6d71a29c77": {
+            "format": "jpg",
+            "id": "6e7507121bfbf028d6029b6d71a29c77",
+            "name": "psoriasis%20(216).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(216).jpg",
+            "size": {
+                "width": 951,
+                "height": 697
+            },
+            "state": 2,
+            "type": 1
+        },
+        "44c232c9cf09c4079ac662e15a34a81e": {
+            "format": "jpg",
+            "id": "44c232c9cf09c4079ac662e15a34a81e",
+            "name": "psoriasis%20(217).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(217).jpg",
+            "size": {
+                "width": 845,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9bad6e129b0fd86b828b0cca6fa909cf": {
+            "format": "jpg",
+            "id": "9bad6e129b0fd86b828b0cca6fa909cf",
+            "name": "psoriasis%20(218).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(218).jpg",
+            "size": {
+                "width": 800,
+                "height": 554
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4a101ebaca578b68fec45c68ed222561": {
+            "format": "jpg",
+            "id": "4a101ebaca578b68fec45c68ed222561",
+            "name": "psoriasis%20(219).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(219).jpg",
+            "size": {
+                "width": 1200,
+                "height": 900
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8bcba978fb0866fa39575f24351e3f5c": {
+            "format": "jpg",
+            "id": "8bcba978fb0866fa39575f24351e3f5c",
+            "name": "psoriasis%20(221).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(221).jpg",
+            "size": {
+                "width": 1920,
+                "height": 750
+            },
+            "state": 2,
+            "type": 1
+        },
+        "64385509cafb568308d7920f1873531c": {
+            "format": "jpg",
+            "id": "64385509cafb568308d7920f1873531c",
+            "name": "psoriasis%20(222).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(222).jpg",
+            "size": {
+                "width": 1000,
+                "height": 667
+            },
+            "state": 2,
+            "type": 1
+        },
+        "de99c6fe467c6cf24521cf0ebc7d973a": {
+            "format": "jpg",
+            "id": "de99c6fe467c6cf24521cf0ebc7d973a",
+            "name": "psoriasis%20(223).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(223).jpg",
+            "size": {
+                "width": 590,
+                "height": 350
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f978ced6b450b90f69fe8502b6a2f37a": {
+            "format": "jpg",
+            "id": "f978ced6b450b90f69fe8502b6a2f37a",
+            "name": "psoriasis%20(225).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(225).jpg",
+            "size": {
+                "width": 350,
+                "height": 233
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f0057e117f5fc7cccb2f3e2bae5e60ff": {
+            "format": "jpg",
+            "id": "f0057e117f5fc7cccb2f3e2bae5e60ff",
+            "name": "psoriasis%20(226).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(226).jpg",
+            "size": {
+                "width": 350,
+                "height": 232
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0e44d3f6cfe341e3e4bdf22fbd726564": {
+            "format": "jpg",
+            "id": "0e44d3f6cfe341e3e4bdf22fbd726564",
+            "name": "psoriasis%20(227).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(227).jpg",
+            "size": {
+                "width": 500,
+                "height": 332
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3ce19ef0ac8c67284ac8f1e1fadb16ee": {
+            "format": "jpg",
+            "id": "3ce19ef0ac8c67284ac8f1e1fadb16ee",
+            "name": "psoriasis%20(228).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(228).jpg",
+            "size": {
+                "width": 3415,
+                "height": 5123
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f51eb83264b6c36e48e232e7f825368d": {
+            "format": "jpg",
+            "id": "f51eb83264b6c36e48e232e7f825368d",
+            "name": "psoriasis%20(229).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(229).jpg",
+            "size": {
+                "width": 3415,
+                "height": 5123
+            },
+            "state": 2,
+            "type": 1
+        },
+        "db5bb3c7aaaecaf3f694e720ca707677": {
+            "format": "jpg",
+            "id": "db5bb3c7aaaecaf3f694e720ca707677",
+            "name": "psoriasis%20(231).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(231).jpg",
+            "size": {
+                "width": 800,
+                "height": 526
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5a0587a201baa494ea369d741c756675": {
+            "format": "jpg",
+            "id": "5a0587a201baa494ea369d741c756675",
+            "name": "psoriasis%20(230).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(230).jpg",
+            "size": {
+                "width": 800,
+                "height": 534
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4ca9be7c4adf24202cc2179ce19b4c71": {
+            "format": "jpg",
+            "id": "4ca9be7c4adf24202cc2179ce19b4c71",
+            "name": "psoriasis%20(232).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(232).jpg",
+            "size": {
+                "width": 2736,
+                "height": 3648
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c66ccaea381b99e03e75e0d2bcafa74c": {
+            "format": "jpg",
+            "id": "c66ccaea381b99e03e75e0d2bcafa74c",
+            "name": "psoriasis%20(235).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(235).jpg",
+            "size": {
+                "width": 900,
+                "height": 675
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2cf489a5769047d557ec56617a9d838a": {
+            "format": "jpg",
+            "id": "2cf489a5769047d557ec56617a9d838a",
+            "name": "psoriasis%20(236).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(236).jpg",
+            "size": {
+                "width": 294,
+                "height": 222
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b14cfdd401cf0394c874ecbe832ebde8": {
+            "format": "jpg",
+            "id": "b14cfdd401cf0394c874ecbe832ebde8",
+            "name": "psoriasis%20(237).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(237).jpg",
+            "size": {
+                "width": 682,
+                "height": 392
+            },
+            "state": 2,
+            "type": 1
+        },
+        "202f90aee1837154ce998e9209bf0ba9": {
+            "format": "jpg",
+            "id": "202f90aee1837154ce998e9209bf0ba9",
+            "name": "psoriasis%20(238).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(238).jpg",
+            "size": {
+                "width": 598,
+                "height": 436
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c2e34ee44570861f70a73ddfdeac3646": {
+            "format": "jpg",
+            "id": "c2e34ee44570861f70a73ddfdeac3646",
+            "name": "psoriasis%20(239).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(239).jpg",
+            "size": {
+                "width": 1600,
+                "height": 1167
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c6a9d59ca2d33474a007d0ff6ffcdd33": {
+            "format": "jpg",
+            "id": "c6a9d59ca2d33474a007d0ff6ffcdd33",
+            "name": "psoriasis%20(240).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(240).jpg",
+            "size": {
+                "width": 493,
+                "height": 335
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e13b2251ace710ae0364716e316b646c": {
+            "format": "jpg",
+            "id": "e13b2251ace710ae0364716e316b646c",
+            "name": "psoriasis%20(241).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(241).jpg",
+            "size": {
+                "width": 493,
+                "height": 335
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7d1287712760bc4ebc475e6451cc96e6": {
+            "format": "jpg",
+            "id": "7d1287712760bc4ebc475e6451cc96e6",
+            "name": "psoriasis%20(242).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(242).jpg",
+            "size": {
+                "width": 493,
+                "height": 335
+            },
+            "state": 1,
+            "type": 1
+        },
+        "c934a304a20debde02b042d6d6d3349a": {
+            "format": "jpg",
+            "id": "c934a304a20debde02b042d6d6d3349a",
+            "name": "psoriasis%20(243).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(243).jpg",
+            "size": {
+                "width": 493,
+                "height": 335
+            },
+            "state": 2,
+            "type": 1
+        },
+        "51a4de2aade5c7360fbd7c7dc57dbcda": {
+            "format": "jpg",
+            "id": "51a4de2aade5c7360fbd7c7dc57dbcda",
+            "name": "psoriasis%20(244).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(244).jpg",
+            "size": {
+                "width": 1024,
+                "height": 682
+            },
+            "state": 1,
+            "type": 1
+        },
+        "04a98da7d5fda22dde98cffa51cb1491": {
+            "format": "jpg",
+            "id": "04a98da7d5fda22dde98cffa51cb1491",
+            "name": "psoriasis%20(245).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(245).jpg",
+            "size": {
+                "width": 1024,
+                "height": 682
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cfe66ea9e0b5ce8a93d51f215cca5273": {
+            "format": "jpg",
+            "id": "cfe66ea9e0b5ce8a93d51f215cca5273",
+            "name": "psoriasis%20(246).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(246).jpg",
+            "size": {
+                "width": 1024,
+                "height": 723
+            },
+            "state": 2,
+            "type": 1
+        },
+        "979e08e90f8877abfb84cf32cbdd552d": {
+            "format": "jpg",
+            "id": "979e08e90f8877abfb84cf32cbdd552d",
+            "name": "psoriasis%20(247).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(247).jpg",
+            "size": {
+                "width": 800,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0c328d64d937e0fbd51ad115ca30ac6a": {
+            "format": "jpg",
+            "id": "0c328d64d937e0fbd51ad115ca30ac6a",
+            "name": "psoriasis%20(248).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(248).jpg",
+            "size": {
+                "width": 468,
+                "height": 440
+            },
+            "state": 2,
+            "type": 1
+        },
+        "911aa508b000a012d37c693995bf8bce": {
+            "format": "jpg",
+            "id": "911aa508b000a012d37c693995bf8bce",
+            "name": "psoriasis%20(249).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(249).jpg",
+            "size": {
+                "width": 1836,
+                "height": 1032
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c8863565dc8ec41060632569475e8d04": {
+            "format": "jpg",
+            "id": "c8863565dc8ec41060632569475e8d04",
+            "name": "psoriasis%20(250).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(250).jpg",
+            "size": {
+                "width": 590,
+                "height": 350
+            },
+            "state": 2,
+            "type": 1
+        },
+        "714f13eb1dc0268db9669ae643c72d8e": {
+            "format": "jpg",
+            "id": "714f13eb1dc0268db9669ae643c72d8e",
+            "name": "psoriasis%20(251).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(251).jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "540adcd00ace36c5509d9c96f4b3c964": {
+            "format": "jpg",
+            "id": "540adcd00ace36c5509d9c96f4b3c964",
+            "name": "psoriasis%20(252).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(252).jpg",
+            "size": {
+                "width": 1772,
+                "height": 1161
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5f65fab4657a78805cb951fcd2b1dd4d": {
+            "format": "jpg",
+            "id": "5f65fab4657a78805cb951fcd2b1dd4d",
+            "name": "psoriasis%20(253).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(253).jpg",
+            "size": {
+                "width": 764,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "48971c8890ab5db0950dbee70a676b92": {
+            "format": "jpg",
+            "id": "48971c8890ab5db0950dbee70a676b92",
+            "name": "psoriasis%20(254).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(254).jpg",
+            "size": {
+                "width": 722,
+                "height": 406
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8b5e8de94466e6431c652282c6002e85": {
+            "format": "jpg",
+            "id": "8b5e8de94466e6431c652282c6002e85",
+            "name": "psoriasis%20(255).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(255).jpg",
+            "size": {
+                "width": 550,
+                "height": 350
+            },
+            "state": 2,
+            "type": 1
+        },
+        "34ead4a039f1845703db1f61ee038906": {
+            "format": "jpg",
+            "id": "34ead4a039f1845703db1f61ee038906",
+            "name": "psoriasis%20(256).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(256).jpg",
+            "size": {
+                "width": 3000,
+                "height": 2372
+            },
+            "state": 2,
+            "type": 1
+        },
+        "01dc5a436971acac8b3389cdd55c9b3d": {
+            "format": "jpg",
+            "id": "01dc5a436971acac8b3389cdd55c9b3d",
+            "name": "psoriasis%20(257).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(257).jpg",
+            "size": {
+                "width": 720,
+                "height": 540
+            },
+            "state": 2,
+            "type": 1
+        },
+        "eac853c16ea9eb964d6bfa5bcf1b480e": {
+            "format": "jpg",
+            "id": "eac853c16ea9eb964d6bfa5bcf1b480e",
+            "name": "psoriasis%20(258).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(258).jpg",
+            "size": {
+                "width": 420,
+                "height": 680
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d33cd216320321cc1d28b100cce2e78b": {
+            "format": "jpg",
+            "id": "d33cd216320321cc1d28b100cce2e78b",
+            "name": "psoriasis%20(259).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(259).jpg",
+            "size": {
+                "width": 350,
+                "height": 299
+            },
+            "state": 2,
+            "type": 1
+        },
+        "28155e7d00febf3437513d6f42b9473f": {
+            "format": "jpg",
+            "id": "28155e7d00febf3437513d6f42b9473f",
+            "name": "psoriasis%20(260).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(260).jpg",
+            "size": {
+                "width": 2000,
+                "height": 1333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "967f9c4446fe90939e8cc1c078883721": {
+            "format": "jpg",
+            "id": "967f9c4446fe90939e8cc1c078883721",
+            "name": "psoriasis%20(211).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(211).jpg",
+            "size": {
+                "width": 800,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "50e378c9c5cf282f78bb7073c1cf4c10": {
+            "format": "jpg",
+            "id": "50e378c9c5cf282f78bb7073c1cf4c10",
+            "name": "psoriasis%20(212).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(212).jpg",
+            "size": {
+                "width": 780,
+                "height": 502
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8344fb1a105e9080acb3efc5e1ae1f58": {
+            "format": "jpg",
+            "id": "8344fb1a105e9080acb3efc5e1ae1f58",
+            "name": "psoriasis%20(213).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(213).jpg",
+            "size": {
+                "width": 1024,
+                "height": 533
+            },
+            "state": 2,
+            "type": 1
+        },
+        "109b505133c5e6eea0e4e4b200553c7b": {
+            "format": "jpg",
+            "id": "109b505133c5e6eea0e4e4b200553c7b",
+            "name": "psoriasis%20(261).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(261).jpg",
+            "size": {
+                "width": 320,
+                "height": 213
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b103d9f3855379ef4b35e7caa8be455d": {
+            "format": "jpg",
+            "id": "b103d9f3855379ef4b35e7caa8be455d",
+            "name": "psoriasis%20(262).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(262).jpg",
+            "size": {
+                "width": 1024,
+                "height": 768
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5ab9f62ee97ac302ac9153a59edfa107": {
+            "format": "jpg",
+            "id": "5ab9f62ee97ac302ac9153a59edfa107",
+            "name": "psoriasis%20(263).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(263).jpg",
+            "size": {
+                "width": 381,
+                "height": 429
+            },
+            "state": 2,
+            "type": 1
+        },
+        "739cd5ced6d203613e8771f457708725": {
+            "format": "jpg",
+            "id": "739cd5ced6d203613e8771f457708725",
+            "name": "psoriasis%20(264).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(264).jpg",
+            "size": {
+                "width": 2121,
+                "height": 1414
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e403f9107c913bf4732811ff2435fd83": {
+            "format": "jpg",
+            "id": "e403f9107c913bf4732811ff2435fd83",
+            "name": "psoriasis%20(265).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(265).jpg",
+            "size": {
+                "width": 1600,
+                "height": 1067
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7d9a48086b066a4b783a9d586c179549": {
+            "format": "jpg",
+            "id": "7d9a48086b066a4b783a9d586c179549",
+            "name": "psoriasis%20(266).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(266).jpg",
+            "size": {
+                "width": 3072,
+                "height": 2304
+            },
+            "state": 1,
+            "type": 1
+        },
+        "3134c9d4759ff5ef35a12026cd0eebf3": {
+            "format": "jpg",
+            "id": "3134c9d4759ff5ef35a12026cd0eebf3",
+            "name": "psoriasis%20(267).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(267).jpg",
+            "size": {
+                "width": 480,
+                "height": 479
+            },
+            "state": 2,
+            "type": 1
+        },
+        "afd9074fadf7f65af64ef1c3354b8974": {
+            "format": "jpg",
+            "id": "afd9074fadf7f65af64ef1c3354b8974",
+            "name": "psoriasis%20(268).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(268).jpg",
+            "size": {
+                "width": 500,
+                "height": 281
+            },
+            "state": 2,
+            "type": 1
+        },
+        "786041a6475bf4bcf0193b2c9857325c": {
+            "format": "jpg",
+            "id": "786041a6475bf4bcf0193b2c9857325c",
+            "name": "psoriasis%20(269).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(269).jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e68009ea5798efecc82cfe3769e6d76a": {
+            "format": "jpg",
+            "id": "e68009ea5798efecc82cfe3769e6d76a",
+            "name": "psoriasis%20(270).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(270).jpg",
+            "size": {
+                "width": 600,
+                "height": 400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ef1ad0a64a5f4bdc88ed4f55f1331bdc": {
+            "format": "jpg",
+            "id": "ef1ad0a64a5f4bdc88ed4f55f1331bdc",
+            "name": "psoriasis%20(271).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(271).jpg",
+            "size": {
+                "width": 600,
+                "height": 338
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ecbd426b8a2fd630ccdb5e26a0bad38d": {
+            "format": "jpg",
+            "id": "ecbd426b8a2fd630ccdb5e26a0bad38d",
+            "name": "psoriasis%20(272).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(272).jpg",
+            "size": {
+                "width": 620,
+                "height": 330
+            },
+            "state": 2,
+            "type": 1
+        },
+        "65b0b56ab7e729bdf59528c579ce287e": {
+            "format": "jpg",
+            "id": "65b0b56ab7e729bdf59528c579ce287e",
+            "name": "psoriasis%20(273).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(273).jpg",
+            "size": {
+                "width": 240,
+                "height": 163
+            },
+            "state": 2,
+            "type": 1
+        },
+        "61ffe958005d92d6d3cf0ebad20051f0": {
+            "format": "jpg",
+            "id": "61ffe958005d92d6d3cf0ebad20051f0",
+            "name": "psoriasis%20(274).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(274).jpg",
+            "size": {
+                "width": 450,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3bdc9c0d28dee578aaf24bf617f9681f": {
+            "format": "jpg",
+            "id": "3bdc9c0d28dee578aaf24bf617f9681f",
+            "name": "psoriasis%20(275).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(275).jpg",
+            "size": {
+                "width": 300,
+                "height": 251
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5888bcab0dde505104f04a6f1fa8748d": {
+            "format": "jpg",
+            "id": "5888bcab0dde505104f04a6f1fa8748d",
+            "name": "psoriasis%20(276).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(276).jpg",
+            "size": {
+                "width": 320,
+                "height": 320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a4c1a7811972f75788f4b2ce22d7ccf8": {
+            "format": "jpg",
+            "id": "a4c1a7811972f75788f4b2ce22d7ccf8",
+            "name": "psoriasis%20(277).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(277).jpg",
+            "size": {
+                "width": 1200,
+                "height": 800
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1bc0ca9b8fafef11b6ff0f7444d7801f": {
+            "format": "jpg",
+            "id": "1bc0ca9b8fafef11b6ff0f7444d7801f",
+            "name": "psoriasis%20(278).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(278).jpg",
+            "size": {
+                "width": 1100,
+                "height": 810
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b06bdded6e94cd83fca584b148fb0444": {
+            "format": "jpg",
+            "id": "b06bdded6e94cd83fca584b148fb0444",
+            "name": "psoriasis%20(279).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(279).jpg",
+            "size": {
+                "width": 2242,
+                "height": 2237
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e8950e5ee46908706d83ec5b8c224d7a": {
+            "format": "jpg",
+            "id": "e8950e5ee46908706d83ec5b8c224d7a",
+            "name": "psoriasis%20(280).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(280).jpg",
+            "size": {
+                "width": 1100,
+                "height": 810
+            },
+            "state": 1,
+            "type": 1
+        },
+        "42401b8588f217071bf9ec022aa3c2e7": {
+            "format": "jpg",
+            "id": "42401b8588f217071bf9ec022aa3c2e7",
+            "name": "psoriasis%20(281).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(281).jpg",
+            "size": {
+                "width": 700,
+                "height": 466
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3ea034e250926ae5c966ae115e7af2ac": {
+            "format": "jpg",
+            "id": "3ea034e250926ae5c966ae115e7af2ac",
+            "name": "psoriasis%20(282).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(282).jpg",
+            "size": {
+                "width": 1100,
+                "height": 732
+            },
+            "state": 2,
+            "type": 1
+        },
+        "42e90e4bf68e0891d6753a9eebe8a318": {
+            "format": "jpg",
+            "id": "42e90e4bf68e0891d6753a9eebe8a318",
+            "name": "psoriasis%20(283).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(283).jpg",
+            "size": {
+                "width": 1100,
+                "height": 754
+            },
+            "state": 2,
+            "type": 1
+        },
+        "360523afe272e347d9da2b0616ffbdc8": {
+            "format": "jpg",
+            "id": "360523afe272e347d9da2b0616ffbdc8",
+            "name": "psoriasis%20(284).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(284).jpg",
+            "size": {
+                "width": 1100,
+                "height": 754
+            },
+            "state": 1,
+            "type": 1
+        },
+        "ee4632ecb47ce29aaf06c9f6b4d07ef6": {
+            "format": "jpg",
+            "id": "ee4632ecb47ce29aaf06c9f6b4d07ef6",
+            "name": "psoriasis%20(285).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(285).jpg",
+            "size": {
+                "width": 750,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "710def09c47d187841f573cf0b6b70ef": {
+            "format": "jpg",
+            "id": "710def09c47d187841f573cf0b6b70ef",
+            "name": "psoriasis%20(286).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(286).jpg",
+            "size": {
+                "width": 630,
+                "height": 486
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3d4e737db946514736bff42699ad55fe": {
+            "format": "jpg",
+            "id": "3d4e737db946514736bff42699ad55fe",
+            "name": "psoriasis%20(287).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(287).jpg",
+            "size": {
+                "width": 1088,
+                "height": 682
+            },
+            "state": 2,
+            "type": 1
+        },
+        "48ae3ac1d1af942514c63c93e0faa2ac": {
+            "format": "jpg",
+            "id": "48ae3ac1d1af942514c63c93e0faa2ac",
+            "name": "psoriasis%20(288).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(288).jpg",
+            "size": {
+                "width": 4608,
+                "height": 3456
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cff12a0cba099eead511006cd189a166": {
+            "format": "jpg",
+            "id": "cff12a0cba099eead511006cd189a166",
+            "name": "psoriasis%20(289).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(289).jpg",
+            "size": {
+                "width": 274,
+                "height": 241
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c7203b299846b0a22f4f24abe7fa049d": {
+            "format": "jpg",
+            "id": "c7203b299846b0a22f4f24abe7fa049d",
+            "name": "psoriasis%20(290).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(290).jpg",
+            "size": {
+                "width": 460,
+                "height": 242
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ed0f7ec44182312983b26c216b9415fd": {
+            "format": "jpg",
+            "id": "ed0f7ec44182312983b26c216b9415fd",
+            "name": "psoriasis%20(291).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(291).jpg",
+            "size": {
+                "width": 319,
+                "height": 208
+            },
+            "state": 1,
+            "type": 1
+        },
+        "9980ec40bf2d879b070777ebb18a49d7": {
+            "format": "jpg",
+            "id": "9980ec40bf2d879b070777ebb18a49d7",
+            "name": "psoriasis%20(292).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(292).jpg",
+            "size": {
+                "width": 300,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9af6a6b2fb7ea62cd1d5e6e1e1026da8": {
+            "format": "jpg",
+            "id": "9af6a6b2fb7ea62cd1d5e6e1e1026da8",
+            "name": "psoriasis%20(293).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(293).jpg",
+            "size": {
+                "width": 260,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b61f0670bd6c7ed8089a6011b4aac078": {
+            "format": "jpg",
+            "id": "b61f0670bd6c7ed8089a6011b4aac078",
+            "name": "psoriasis%20(294).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(294).jpg",
+            "size": {
+                "width": 493,
+                "height": 335
+            },
+            "state": 2,
+            "type": 1
+        },
+        "22f5b830db5a786eb91aa67243f15726": {
+            "format": "JPG",
+            "id": "22f5b830db5a786eb91aa67243f15726",
+            "name": "psoriasis%20(295).JPG",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(295).JPG",
+            "size": {
+                "width": 294,
+                "height": 222
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ae2bf4a25603ee293ef634b1689df745": {
+            "format": "JPG",
+            "id": "ae2bf4a25603ee293ef634b1689df745",
+            "name": "psoriasis%20(296).JPG",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(296).JPG",
+            "size": {
+                "width": 294,
+                "height": 222
+            },
+            "state": 2,
+            "type": 1
+        },
+        "42b99aee63daf18a8a66eaca948c1579": {
+            "format": "jpg",
+            "id": "42b99aee63daf18a8a66eaca948c1579",
+            "name": "psoriasis%20(297).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(297).jpg",
+            "size": {
+                "width": 390,
+                "height": 220
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a2e16e4d4c37edd71494959cb0789244": {
+            "format": "jpg",
+            "id": "a2e16e4d4c37edd71494959cb0789244",
+            "name": "psoriasis%20(298).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(298).jpg",
+            "size": {
+                "width": 552,
+                "height": 310
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3f870ce380c173db69fb002c1edbdb94": {
+            "format": "jpg",
+            "id": "3f870ce380c173db69fb002c1edbdb94",
+            "name": "psoriasis%20(299).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(299).jpg",
+            "size": {
+                "width": 570,
+                "height": 256
+            },
+            "state": 2,
+            "type": 1
+        },
+        "34b7284499782cda0f596bd7e85f0c8c": {
+            "format": "jpg",
+            "id": "34b7284499782cda0f596bd7e85f0c8c",
+            "name": "psoriasis%20(300).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(300).jpg",
+            "size": {
+                "width": 1024,
+                "height": 506
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f714ff74892b06aef0df03df36b46a4f": {
+            "format": "jpg",
+            "id": "f714ff74892b06aef0df03df36b46a4f",
+            "name": "psoriasis%20(301).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(301).jpg",
+            "size": {
+                "width": 1024,
+                "height": 683
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4362682448c1fa24e318e1cb9fb9506a": {
+            "format": "jpg",
+            "id": "4362682448c1fa24e318e1cb9fb9506a",
+            "name": "psoriasis%20(302).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(302).jpg",
+            "size": {
+                "width": 1024,
+                "height": 682
+            },
+            "state": 2,
+            "type": 1
+        },
+        "69c15910cfb8a7e5ff0bd9eef3b6fe69": {
+            "format": "jpg",
+            "id": "69c15910cfb8a7e5ff0bd9eef3b6fe69",
+            "name": "psoriasis%20(303).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(303).jpg",
+            "size": {
+                "width": 624,
+                "height": 415
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b6fd71366fbd47498279e8b0f0467611": {
+            "format": "jpg",
+            "id": "b6fd71366fbd47498279e8b0f0467611",
+            "name": "psoriasis%20(304).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(304).jpg",
+            "size": {
+                "width": 750,
+                "height": 497
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6a47d4cbc029896fce8e5c271db93a04": {
+            "format": "jpg",
+            "id": "6a47d4cbc029896fce8e5c271db93a04",
+            "name": "psoriasis%20(305).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(305).jpg",
+            "size": {
+                "width": 800,
+                "height": 445
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fc5a738c268bfc4b660ff3d30a03e32d": {
+            "format": "jpg",
+            "id": "fc5a738c268bfc4b660ff3d30a03e32d",
+            "name": "psoriasis%20(306).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(306).jpg",
+            "size": {
+                "width": 1800,
+                "height": 1266
+            },
+            "state": 2,
+            "type": 1
+        },
+        "32419401ae3bf0bb871f2b0c196710fa": {
+            "format": "jpg",
+            "id": "32419401ae3bf0bb871f2b0c196710fa",
+            "name": "psoriasis%20(307).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(307).jpg",
+            "size": {
+                "width": 635,
+                "height": 419
+            },
+            "state": 2,
+            "type": 1
+        },
+        "de100419fb7e0a95a6eba39fd62fbd5c": {
+            "format": "jpg",
+            "id": "de100419fb7e0a95a6eba39fd62fbd5c",
+            "name": "psoriasis%20(308).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(308).jpg",
+            "size": {
+                "width": 567,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2c45a3e66c93c77306aec0f7913b957b": {
+            "format": "jpg",
+            "id": "2c45a3e66c93c77306aec0f7913b957b",
+            "name": "psoriasis%20(309).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(309).jpg",
+            "size": {
+                "width": 500,
+                "height": 334
+            },
+            "state": 2,
+            "type": 1
+        },
+        "540800b36cb00578d3df36e7efa78bcd": {
+            "format": "jpg",
+            "id": "540800b36cb00578d3df36e7efa78bcd",
+            "name": "psoriasis%20(310).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(310).jpg",
+            "size": {
+                "width": 586,
+                "height": 800
+            },
+            "state": 2,
+            "type": 1
+        },
+        "40407f53e763be9f685550f8bec2938c": {
+            "format": "jpg",
+            "id": "40407f53e763be9f685550f8bec2938c",
+            "name": "psoriasis%20(311).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(311).jpg",
+            "size": {
+                "width": 400,
+                "height": 250
+            },
+            "state": 2,
+            "type": 1
+        },
+        "76b27878044e73e60aba2d2e6973248e": {
+            "format": "jpg",
+            "id": "76b27878044e73e60aba2d2e6973248e",
+            "name": "psoriasis%20(312).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(312).jpg",
+            "size": {
+                "width": 752,
+                "height": 393
+            },
+            "state": 1,
+            "type": 1
+        },
+        "c5d21522cd6c9934f02afb91974490ae": {
+            "format": "jpg",
+            "id": "c5d21522cd6c9934f02afb91974490ae",
+            "name": "psoriasis%20(313).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(313).jpg",
+            "size": {
+                "width": 800,
+                "height": 510
+            },
+            "state": 1,
+            "type": 1
+        },
+        "d0a94502c4897dbf5382013c2f4a7dda": {
+            "format": "jpg",
+            "id": "d0a94502c4897dbf5382013c2f4a7dda",
+            "name": "psoriasis%20(314).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(314).jpg",
+            "size": {
+                "width": 600,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "21b462da77455cc0b39878068ec2dd50": {
+            "format": "jpg",
+            "id": "21b462da77455cc0b39878068ec2dd50",
+            "name": "psoriasis%20(315).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(315).jpg",
+            "size": {
+                "width": 480,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "073df67a17d39218792abd46cbd73c56": {
+            "format": "jpg",
+            "id": "073df67a17d39218792abd46cbd73c56",
+            "name": "psoriasis%20(316).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(316).jpg",
+            "size": {
+                "width": 640,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "38880c51637c481b3982b6f6263c9ef2": {
+            "format": "jpg",
+            "id": "38880c51637c481b3982b6f6263c9ef2",
+            "name": "psoriasis%20(317).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(317).jpg",
+            "size": {
+                "width": 500,
+                "height": 473
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bf4f1904767bd3e68b5e03c7ffca10bb": {
+            "format": "jpg",
+            "id": "bf4f1904767bd3e68b5e03c7ffca10bb",
+            "name": "psoriasis%20(318).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(318).jpg",
+            "size": {
+                "width": 800,
+                "height": 450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "10b2b117eb580179c75311f5de45d4f3": {
+            "format": "jpg",
+            "id": "10b2b117eb580179c75311f5de45d4f3",
+            "name": "psoriasis%20(319).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(319).jpg",
+            "size": {
+                "width": 1100,
+                "height": 714
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e5da9d3ef3336725449138f56d1776cd": {
+            "format": "jpg",
+            "id": "e5da9d3ef3336725449138f56d1776cd",
+            "name": "psoriasis%20(320).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(320).jpg",
+            "size": {
+                "width": 348,
+                "height": 228
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dd00968a5d0a92ff5775dfe312502684": {
+            "format": "jpg",
+            "id": "dd00968a5d0a92ff5775dfe312502684",
+            "name": "psoriasis%20(321).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(321).jpg",
+            "size": {
+                "width": 1100,
+                "height": 734
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4d261cb159d2424727f5697d8419c4dc": {
+            "format": "jpg",
+            "id": "4d261cb159d2424727f5697d8419c4dc",
+            "name": "psoriasis%20(322).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(322).jpg",
+            "size": {
+                "width": 387,
+                "height": 259
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e35a64cdea602d4d613b06248dbcab46": {
+            "format": "jpg",
+            "id": "e35a64cdea602d4d613b06248dbcab46",
+            "name": "psoriasis%20(323).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(323).jpg",
+            "size": {
+                "width": 620,
+                "height": 465
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1f890c9c25e95415f92525e2e6728e9d": {
+            "format": "jpg",
+            "id": "1f890c9c25e95415f92525e2e6728e9d",
+            "name": "psoriasis%20(324).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(324).jpg",
+            "size": {
+                "width": 1100,
+                "height": 734
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2611f615b0278f5b02b636dba326c210": {
+            "format": "jpg",
+            "id": "2611f615b0278f5b02b636dba326c210",
+            "name": "psoriasis%20(325).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(325).jpg",
+            "size": {
+                "width": 612,
+                "height": 408
+            },
+            "state": 2,
+            "type": 1
+        },
+        "959ad624877c9f17641a85539a7b0f31": {
+            "format": "jpg",
+            "id": "959ad624877c9f17641a85539a7b0f31",
+            "name": "psoriasis%20(326).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(326).jpg",
+            "size": {
+                "width": 612,
+                "height": 425
+            },
+            "state": 2,
+            "type": 1
+        },
+        "90ed6447d7d9eb81d22ee5a49f8481e1": {
+            "format": "jpg",
+            "id": "90ed6447d7d9eb81d22ee5a49f8481e1",
+            "name": "psoriasis%20(327).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(327).jpg",
+            "size": {
+                "width": 1000,
+                "height": 656
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7b2386cf267aa4512ba6667b33c09ca0": {
+            "format": "jpg",
+            "id": "7b2386cf267aa4512ba6667b33c09ca0",
+            "name": "psoriasis%20(328).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(328).jpg",
+            "size": {
+                "width": 1600,
+                "height": 759
+            },
+            "state": 2,
+            "type": 1
+        },
+        "910a8d8c2814e2f111cf799e87e817f8": {
+            "format": "jpg",
+            "id": "910a8d8c2814e2f111cf799e87e817f8",
+            "name": "psoriasis%20(329).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(329).jpg",
+            "size": {
+                "width": 493,
+                "height": 335
+            },
+            "state": 2,
+            "type": 1
+        },
+        "34f4c94fb84db62c79dc1bd8c6bb0bac": {
+            "format": "jpg",
+            "id": "34f4c94fb84db62c79dc1bd8c6bb0bac",
+            "name": "psoriasis%20(330).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(330).jpg",
+            "size": {
+                "width": 300,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f892d46f2850e4f9a262e48b0aabd9ce": {
+            "format": "JPG",
+            "id": "f892d46f2850e4f9a262e48b0aabd9ce",
+            "name": "psoriasis%20(331).JPG",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(331).JPG",
+            "size": {
+                "width": 3008,
+                "height": 1960
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b0f81fe94e4fb215e8af5dedb1e9165f": {
+            "format": "jpg",
+            "id": "b0f81fe94e4fb215e8af5dedb1e9165f",
+            "name": "psoriasis%20(332).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(332).jpg",
+            "size": {
+                "width": 493,
+                "height": 335
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a3854594a2031e758ab7bea948309782": {
+            "format": "jpg",
+            "id": "a3854594a2031e758ab7bea948309782",
+            "name": "psoriasis%20(333).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(333).jpg",
+            "size": {
+                "width": 626,
+                "height": 417
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c497ceacf332544469886148d2cfd04c": {
+            "format": "jpg",
+            "id": "c497ceacf332544469886148d2cfd04c",
+            "name": "psoriasis%20(334).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(334).jpg",
+            "size": {
+                "width": 493,
+                "height": 335
+            },
+            "state": 2,
+            "type": 1
+        },
+        "df7e2215d0664f8a5d8135ecd79a4f2a": {
+            "format": "jpg",
+            "id": "df7e2215d0664f8a5d8135ecd79a4f2a",
+            "name": "psoriasis%20(335).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(335).jpg",
+            "size": {
+                "width": 2000,
+                "height": 1328
+            },
+            "state": 2,
+            "type": 1
+        },
+        "67c45fd2812f09529ad2fede1a6c89ce": {
+            "format": "jpg",
+            "id": "67c45fd2812f09529ad2fede1a6c89ce",
+            "name": "psoriasis%20(336).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(336).jpg",
+            "size": {
+                "width": 683,
+                "height": 1024
+            },
+            "state": 2,
+            "type": 1
+        },
+        "86beea4e2d891a4c844172c9e42cc21a": {
+            "format": "jpg",
+            "id": "86beea4e2d891a4c844172c9e42cc21a",
+            "name": "psoriasis%20(337).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(337).jpg",
+            "size": {
+                "width": 800,
+                "height": 526
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e9498d7481079db2f81fc261ff1edb99": {
+            "format": "jpg",
+            "id": "e9498d7481079db2f81fc261ff1edb99",
+            "name": "psoriasis%20(338).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(338).jpg",
+            "size": {
+                "width": 860,
+                "height": 587
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c934a42e2f91f5825b0e8e0d29e610ec": {
+            "format": "jpg",
+            "id": "c934a42e2f91f5825b0e8e0d29e610ec",
+            "name": "psoriasis%20(339).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(339).jpg",
+            "size": {
+                "width": 1000,
+                "height": 667
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6bef32110ea26f857215168fbe420ec1": {
+            "format": "jpg",
+            "id": "6bef32110ea26f857215168fbe420ec1",
+            "name": "psoriasis%20(340).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(340).jpg",
+            "size": {
+                "width": 493,
+                "height": 335
+            },
+            "state": 2,
+            "type": 1
+        },
+        "07e9342d128269165d015c1e9bfed192": {
+            "format": "jpg",
+            "id": "07e9342d128269165d015c1e9bfed192",
+            "name": "psoriasis%20(341).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(341).jpg",
+            "size": {
+                "width": 493,
+                "height": 335
+            },
+            "state": 1,
+            "type": 1
+        },
+        "b9c82605ae5de342eff156c4d0193908": {
+            "format": "jpg",
+            "id": "b9c82605ae5de342eff156c4d0193908",
+            "name": "psoriasis%20(342).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(342).jpg",
+            "size": {
+                "width": 480,
+                "height": 479
+            },
+            "state": 2,
+            "type": 1
+        },
+        "184a46f00b61e962a0907198a2ca669f": {
+            "format": "jpg",
+            "id": "184a46f00b61e962a0907198a2ca669f",
+            "name": "psoriasis%20(343).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(343).jpg",
+            "size": {
+                "width": 980,
+                "height": 587
+            },
+            "state": 2,
+            "type": 1
+        },
+        "32593f127dffdd87ddd925d917d5a540": {
+            "format": "jpg",
+            "id": "32593f127dffdd87ddd925d917d5a540",
+            "name": "psoriasis%20(344).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(344).jpg",
+            "size": {
+                "width": 251,
+                "height": 167
+            },
+            "state": 2,
+            "type": 1
+        },
+        "052d5d32ac997a5c5393244245e31eca": {
+            "format": "jpg",
+            "id": "052d5d32ac997a5c5393244245e31eca",
+            "name": "psoriasis%20(345).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(345).jpg",
+            "size": {
+                "width": 1200,
+                "height": 675
+            },
+            "state": 2,
+            "type": 1
+        },
+        "98fc3ba78c605f0935b103463d3d6519": {
+            "format": "jpg",
+            "id": "98fc3ba78c605f0935b103463d3d6519",
+            "name": "psoriasis%20(346).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(346).jpg",
+            "size": {
+                "width": 1024,
+                "height": 683
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c42b6eeb8007b18272e6225188f35965": {
+            "format": "jpg",
+            "id": "c42b6eeb8007b18272e6225188f35965",
+            "name": "psoriasis%20(347).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(347).jpg",
+            "size": {
+                "width": 752,
+                "height": 393
+            },
+            "state": 2,
+            "type": 1
+        },
+        "11f50c9b358a4c58506cc1d89e6acace": {
+            "format": "jpg",
+            "id": "11f50c9b358a4c58506cc1d89e6acace",
+            "name": "psoriasis%20(348).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(348).jpg",
+            "size": {
+                "width": 940,
+                "height": 626
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ba658c85a827a1d4e1f6505db85112fe": {
+            "format": "jpg",
+            "id": "ba658c85a827a1d4e1f6505db85112fe",
+            "name": "psoriasis%20(349).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(349).jpg",
+            "size": {
+                "width": 300,
+                "height": 150
+            },
+            "state": 2,
+            "type": 1
+        },
+        "07e00435ca725ad1f088b9700dee6de0": {
+            "format": "jpg",
+            "id": "07e00435ca725ad1f088b9700dee6de0",
+            "name": "psoriasis%20(350).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(350).jpg",
+            "size": {
+                "width": 1600,
+                "height": 1137
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8ee0830d98c43c4157683e73c68cb808": {
+            "format": "jpg",
+            "id": "8ee0830d98c43c4157683e73c68cb808",
+            "name": "psoriasis%20(351).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(351).jpg",
+            "size": {
+                "width": 500,
+                "height": 334
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b5fd919030d35d044891a091859f6632": {
+            "format": "jpg",
+            "id": "b5fd919030d35d044891a091859f6632",
+            "name": "psoriasis%20(352).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(352).jpg",
+            "size": {
+                "width": 1024,
+                "height": 678
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fc9d6f0eba9e5646ae170db8a56a032d": {
+            "format": "jpg",
+            "id": "fc9d6f0eba9e5646ae170db8a56a032d",
+            "name": "psoriasis%20(353).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(353).jpg",
+            "size": {
+                "width": 1024,
+                "height": 683
+            },
+            "state": 2,
+            "type": 1
+        },
+        "786513f4c234fd7b917aa88438fbf257": {
+            "format": "jpg",
+            "id": "786513f4c234fd7b917aa88438fbf257",
+            "name": "psoriasis%20(354).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(354).jpg",
+            "size": {
+                "width": 500,
+                "height": 421
+            },
+            "state": 2,
+            "type": 1
+        },
+        "41a6cd0dd8c10801ecdd9be83b2309e5": {
+            "format": "jpg",
+            "id": "41a6cd0dd8c10801ecdd9be83b2309e5",
+            "name": "psoriasis%20(355).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(355).jpg",
+            "size": {
+                "width": 361,
+                "height": 242
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f330056f40a6b495a51c795ca0bcd6e1": {
+            "format": "jpg",
+            "id": "f330056f40a6b495a51c795ca0bcd6e1",
+            "name": "psoriasis%20(356).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(356).jpg",
+            "size": {
+                "width": 620,
+                "height": 460
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a17af4cdb75a551b1b57ab9346a0b4b9": {
+            "format": "jpg",
+            "id": "a17af4cdb75a551b1b57ab9346a0b4b9",
+            "name": "psoriasis%20(357).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(357).jpg",
+            "size": {
+                "width": 800,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "998dc6852ab7b22644705817d4870547": {
+            "format": "jpg",
+            "id": "998dc6852ab7b22644705817d4870547",
+            "name": "psoriasis%20(358).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(358).jpg",
+            "size": {
+                "width": 800,
+                "height": 600
+            },
+            "state": 1,
+            "type": 1
+        },
+        "3447b071a1bcebcc84daf218578d247d": {
+            "format": "jpg",
+            "id": "3447b071a1bcebcc84daf218578d247d",
+            "name": "psoriasis%20(359).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(359).jpg",
+            "size": {
+                "width": 303,
+                "height": 226
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9738cca11758e2ef9705b82d4ba78020": {
+            "format": "jpg",
+            "id": "9738cca11758e2ef9705b82d4ba78020",
+            "name": "psoriasis%20(360).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(360).jpg",
+            "size": {
+                "width": 764,
+                "height": 375
+            },
+            "state": 1,
+            "type": 1
+        },
+        "8f58f8bf31b2aaf3d63e7607854f54bd": {
+            "format": "jpg",
+            "id": "8f58f8bf31b2aaf3d63e7607854f54bd",
+            "name": "psoriasis%20(361).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(361).jpg",
+            "size": {
+                "width": 400,
+                "height": 400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "285196d29fa82d3bffe5994a27934132": {
+            "format": "jpg",
+            "id": "285196d29fa82d3bffe5994a27934132",
+            "name": "psoriasis%20(362).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(362).jpg",
+            "size": {
+                "width": 700,
+                "height": 700
+            },
+            "state": 2,
+            "type": 1
+        },
+        "76f96b8f1eec74652b22e431b352f3f5": {
+            "format": "jpg",
+            "id": "76f96b8f1eec74652b22e431b352f3f5",
+            "name": "psoriasis%20(363).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(363).jpg",
+            "size": {
+                "width": 387,
+                "height": 259
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b6049b8f3a38053d311950ebcbc927ee": {
+            "format": "jpg",
+            "id": "b6049b8f3a38053d311950ebcbc927ee",
+            "name": "Rosacea%20(1).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/Rosacea%20(1).jpg",
+            "size": {
+                "width": 420,
+                "height": 420
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9fecbf9071aa1f070108d38d71d8bbd8": {
+            "format": "jpg",
+            "id": "9fecbf9071aa1f070108d38d71d8bbd8",
+            "name": "rosacea%20(10).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(10).jpg",
+            "size": {
+                "width": 380,
+                "height": 285
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d6d9059fc5fa5fe355abad9dd190699e": {
+            "format": "jpg",
+            "id": "d6d9059fc5fa5fe355abad9dd190699e",
+            "name": "rosacea%20(11).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(11).jpg",
+            "size": {
+                "width": 380,
+                "height": 285
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a566fd5c07f5bba06963ea179420a6ab": {
+            "format": "jpg",
+            "id": "a566fd5c07f5bba06963ea179420a6ab",
+            "name": "rosacea%20(12).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(12).jpg",
+            "size": {
+                "width": 1100,
+                "height": 825
+            },
+            "state": 2,
+            "type": 1
+        },
+        "99b6376d0eaf9c21ca51b88f7e98fe60": {
+            "format": "jpg",
+            "id": "99b6376d0eaf9c21ca51b88f7e98fe60",
+            "name": "rosacea%20(13).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(13).jpg",
+            "size": {
+                "width": 1100,
+                "height": 825
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0602bf2affbafd40baa9ffc887013529": {
+            "format": "jpg",
+            "id": "0602bf2affbafd40baa9ffc887013529",
+            "name": "rosacea%20(14).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(14).jpg",
+            "size": {
+                "width": 493,
+                "height": 335
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8de7c3fc4f941199b73b3c8a87dcb0a7": {
+            "format": "jpg",
+            "id": "8de7c3fc4f941199b73b3c8a87dcb0a7",
+            "name": "rosacea%20(15).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(15).jpg",
+            "size": {
+                "width": 343,
+                "height": 343
+            },
+            "state": 2,
+            "type": 1
+        },
+        "97348117e81e7504cfd7eb56110e686f": {
+            "format": "jpg",
+            "id": "97348117e81e7504cfd7eb56110e686f",
+            "name": "rosacea%20(16).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(16).jpg",
+            "size": {
+                "width": 800,
+                "height": 1000
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4f6714a68eb5e3e18ce1e561da05c2cb": {
+            "format": "jpg",
+            "id": "4f6714a68eb5e3e18ce1e561da05c2cb",
+            "name": "rosacea%20(17).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(17).jpg",
+            "size": {
+                "width": 350,
+                "height": 340
+            },
+            "state": 2,
+            "type": 1
+        },
+        "00af986a7d5eb2fea89b2d6913a63081": {
+            "format": "jpg",
+            "id": "00af986a7d5eb2fea89b2d6913a63081",
+            "name": "rosacea%20(18).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(18).jpg",
+            "size": {
+                "width": 476,
+                "height": 461
+            },
+            "state": 2,
+            "type": 1
+        },
+        "24f553545cf868fddbc09dd2ae33c96c": {
+            "format": "jpg",
+            "id": "24f553545cf868fddbc09dd2ae33c96c",
+            "name": "rosacea%20(19).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(19).jpg",
+            "size": {
+                "width": 616,
+                "height": 1053
+            },
+            "state": 2,
+            "type": 1
+        },
+        "221354e31cdfd954658e5d92929e8352": {
+            "format": "jpg",
+            "id": "221354e31cdfd954658e5d92929e8352",
+            "name": "rosacea%20(2).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(2).jpg",
+            "size": {
+                "width": 2400,
+                "height": 1600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6e2a171aec9c964b7ab06ab2d05c4d80": {
+            "format": "JPG",
+            "id": "6e2a171aec9c964b7ab06ab2d05c4d80",
+            "name": "rosacea%20(20).JPG",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(20).JPG",
+            "size": {
+                "width": 960,
+                "height": 972
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5f5850bf6667561948888e6092cc5b16": {
+            "format": "jpg",
+            "id": "5f5850bf6667561948888e6092cc5b16",
+            "name": "rosacea%20(21).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(21).jpg",
+            "size": {
+                "width": 635,
+                "height": 357
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7886fb80085ff67b8e02450be6c2c4c9": {
+            "format": "jpg",
+            "id": "7886fb80085ff67b8e02450be6c2c4c9",
+            "name": "rosacea%20(22).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(22).jpg",
+            "size": {
+                "width": 646,
+                "height": 438
+            },
+            "state": 2,
+            "type": 1
+        },
+        "49d9c9ad0c192b845b4dd459d8391985": {
+            "format": "jpg",
+            "id": "49d9c9ad0c192b845b4dd459d8391985",
+            "name": "rosacea%20(23).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(23).jpg",
+            "size": {
+                "width": 1024,
+                "height": 682
+            },
+            "state": 2,
+            "type": 1
+        },
+        "14bacffc5429f8af26838029c72424b6": {
+            "format": "jpg",
+            "id": "14bacffc5429f8af26838029c72424b6",
+            "name": "rosacea%20(24).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(24).jpg",
+            "size": {
+                "width": 375,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "32a61c2291bcb6bd44c61e580916208f": {
+            "format": "jpg",
+            "id": "32a61c2291bcb6bd44c61e580916208f",
+            "name": "rosacea%20(25).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(25).jpg",
+            "size": {
+                "width": 600,
+                "height": 400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1b2e878116b14e9ab64f82a696e20d8a": {
+            "format": "jpg",
+            "id": "1b2e878116b14e9ab64f82a696e20d8a",
+            "name": "rosacea%20(26).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(26).jpg",
+            "size": {
+                "width": 760,
+                "height": 760
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3ea160978782a78774b8af648113e41e": {
+            "format": "jpg",
+            "id": "3ea160978782a78774b8af648113e41e",
+            "name": "rosacea%20(27).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(27).jpg",
+            "size": {
+                "width": 500,
+                "height": 332
+            },
+            "state": 2,
+            "type": 1
+        },
+        "62605df4bf7ea8595ae10398e8452ae3": {
+            "format": "jpg",
+            "id": "62605df4bf7ea8595ae10398e8452ae3",
+            "name": "rosacea%20(28).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(28).jpg",
+            "size": {
+                "width": 493,
+                "height": 335
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2906294fbff91255f3ce0e2ff4b3e98d": {
+            "format": "jpg",
+            "id": "2906294fbff91255f3ce0e2ff4b3e98d",
+            "name": "rosacea%20(29).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(29).jpg",
+            "size": {
+                "width": 648,
+                "height": 364
+            },
+            "state": 2,
+            "type": 1
+        },
+        "aa5339c716b2fcab68e09efccd68a15a": {
+            "format": "jpg",
+            "id": "aa5339c716b2fcab68e09efccd68a15a",
+            "name": "rosacea%20(3).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(3).jpg",
+            "size": {
+                "width": 360,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2321e08a364912415def42871c9d952a": {
+            "format": "jpg",
+            "id": "2321e08a364912415def42871c9d952a",
+            "name": "rosacea%20(30).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(30).jpg",
+            "size": {
+                "width": 493,
+                "height": 335
+            },
+            "state": 2,
+            "type": 1
+        },
+        "591393b3dc5eff015a62698595b162d4": {
+            "format": "jpg",
+            "id": "591393b3dc5eff015a62698595b162d4",
+            "name": "rosacea%20(31).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(31).jpg",
+            "size": {
+                "width": 648,
+                "height": 364
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d057c5ce257862babe7952f5f473743f": {
+            "format": "jpg",
+            "id": "d057c5ce257862babe7952f5f473743f",
+            "name": "rosacea%20(32).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(32).jpg",
+            "size": {
+                "width": 648,
+                "height": 364
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9577ed3201c3842d021e565b93f1303b": {
+            "format": "jpg",
+            "id": "9577ed3201c3842d021e565b93f1303b",
+            "name": "rosacea%20(33).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(33).jpg",
+            "size": {
+                "width": 590,
+                "height": 386
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9fe7afe59795cb4894e5ff2ba8d5e227": {
+            "format": "jpg",
+            "id": "9fe7afe59795cb4894e5ff2ba8d5e227",
+            "name": "rosacea%20(34).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(34).jpg",
+            "size": {
+                "width": 648,
+                "height": 364
+            },
+            "state": 2,
+            "type": 1
+        },
+        "84e79bced985b7b87e8b62fec4d3ea06": {
+            "format": "jpg",
+            "id": "84e79bced985b7b87e8b62fec4d3ea06",
+            "name": "rosacea%20(35).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(35).jpg",
+            "size": {
+                "width": 648,
+                "height": 364
+            },
+            "state": 2,
+            "type": 1
+        },
+        "da7d85b57e40faec4760ad9568851bea": {
+            "format": "jpg",
+            "id": "da7d85b57e40faec4760ad9568851bea",
+            "name": "rosacea%20(36).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(36).jpg",
+            "size": {
+                "width": 648,
+                "height": 364
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7800468ee5ebd28fb2cd7e9afc9d7a60": {
+            "format": "jpg",
+            "id": "7800468ee5ebd28fb2cd7e9afc9d7a60",
+            "name": "rosacea%20(37).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(37).jpg",
+            "size": {
+                "width": 256,
+                "height": 192
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d14aa88b0e61de7f93e83915ea1a5d4d": {
+            "format": "jpg",
+            "id": "d14aa88b0e61de7f93e83915ea1a5d4d",
+            "name": "rosacea%20(38).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(38).jpg",
+            "size": {
+                "width": 722,
+                "height": 406
+            },
+            "state": 2,
+            "type": 1
+        },
+        "76bada6a009de05922624a916b41c1d1": {
+            "format": "jpg",
+            "id": "76bada6a009de05922624a916b41c1d1",
+            "name": "rosacea%20(39).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(39).jpg",
+            "size": {
+                "width": 640,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4a7cac0deae0127d355f18913733d4e5": {
+            "format": "jpg",
+            "id": "4a7cac0deae0127d355f18913733d4e5",
+            "name": "rosacea%20(4).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(4).jpg",
+            "size": {
+                "width": 220,
+                "height": 232
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d2ba2dcbbfe93abddbb023b521152cc4": {
+            "format": "jpg",
+            "id": "d2ba2dcbbfe93abddbb023b521152cc4",
+            "name": "rosacea%20(40).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(40).jpg",
+            "size": {
+                "width": 340,
+                "height": 340
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e48056e08261cf7abe4fb5b23dea9dd4": {
+            "format": "jpg",
+            "id": "e48056e08261cf7abe4fb5b23dea9dd4",
+            "name": "rosacea%20(41).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(41).jpg",
+            "size": {
+                "width": 369,
+                "height": 235
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e2aa0d2612162edb8641bbaaaaef788b": {
+            "format": "jpg",
+            "id": "e2aa0d2612162edb8641bbaaaaef788b",
+            "name": "rosacea%20(42).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(42).jpg",
+            "size": {
+                "width": 1024,
+                "height": 665
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2cbce1967490c575fd37aa76c8031f6d": {
+            "format": "jpg",
+            "id": "2cbce1967490c575fd37aa76c8031f6d",
+            "name": "rosacea%20(43).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(43).jpg",
+            "size": {
+                "width": 294,
+                "height": 222
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a67f7e908f6eb786a666193145692335": {
+            "format": "jpg",
+            "id": "a67f7e908f6eb786a666193145692335",
+            "name": "rosacea%20(44).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(44).jpg",
+            "size": {
+                "width": 600,
+                "height": 400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cec278face488e2492636367cb544c7f": {
+            "format": "jpg",
+            "id": "cec278face488e2492636367cb544c7f",
+            "name": "rosacea%20(45).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(45).jpg",
+            "size": {
+                "width": 900,
+                "height": 675
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d3ee966449aaf5db03692f2e394fd1fd": {
+            "format": "jpg",
+            "id": "d3ee966449aaf5db03692f2e394fd1fd",
+            "name": "rosacea%20(46).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(46).jpg",
+            "size": {
+                "width": 509,
+                "height": 273
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8198d66a1cc63b2a5f186cc5e1d7b7a5": {
+            "format": "jpg",
+            "id": "8198d66a1cc63b2a5f186cc5e1d7b7a5",
+            "name": "rosacea%20(47).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(47).jpg",
+            "size": {
+                "width": 840,
+                "height": 472
+            },
+            "state": 2,
+            "type": 1
+        },
+        "92cd772642945f9f30b78c8a47641cea": {
+            "format": "jpg",
+            "id": "92cd772642945f9f30b78c8a47641cea",
+            "name": "rosacea%20(48).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(48).jpg",
+            "size": {
+                "width": 900,
+                "height": 650
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6875e97011a01281ace66b90fd35f42e": {
+            "format": "jpg",
+            "id": "6875e97011a01281ace66b90fd35f42e",
+            "name": "rosacea%20(49).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(49).jpg",
+            "size": {
+                "width": 253,
+                "height": 130
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0dde591155db3374dee14e6bb7946496": {
+            "format": "jpg",
+            "id": "0dde591155db3374dee14e6bb7946496",
+            "name": "rosacea%20(5).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(5).jpg",
+            "size": {
+                "width": 493,
+                "height": 335
+            },
+            "state": 2,
+            "type": 1
+        },
+        "033de4d163d0dc43bbab4ddf406b0419": {
+            "format": "jpg",
+            "id": "033de4d163d0dc43bbab4ddf406b0419",
+            "name": "rosacea%20(50).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(50).jpg",
+            "size": {
+                "width": 2306,
+                "height": 1564
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8fced5b048fc1d29b4c2d176a87de921": {
+            "format": "jpg",
+            "id": "8fced5b048fc1d29b4c2d176a87de921",
+            "name": "rosacea%20(51).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(51).jpg",
+            "size": {
+                "width": 1100,
+                "height": 734
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1c843ce4162dd0488f69be239fce4434": {
+            "format": "jpg",
+            "id": "1c843ce4162dd0488f69be239fce4434",
+            "name": "rosacea%20(6).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(6).jpg",
+            "size": {
+                "width": 493,
+                "height": 335
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6a3f64338e6da7250a61c50d6bab9a98": {
+            "format": "jpg",
+            "id": "6a3f64338e6da7250a61c50d6bab9a98",
+            "name": "rosacea%20(7).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(7).jpg",
+            "size": {
+                "width": 500,
+                "height": 339
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d9e0ea6e6e0ec0f8c6e1160a14f956c5": {
+            "format": "jpg",
+            "id": "d9e0ea6e6e0ec0f8c6e1160a14f956c5",
+            "name": "rosacea%20(8).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(8).jpg",
+            "size": {
+                "width": 1200,
+                "height": 628
+            },
+            "state": 1,
+            "type": 1
+        },
+        "af4b80b535bb20765eb6ee5413451be9": {
+            "format": "jpg",
+            "id": "af4b80b535bb20765eb6ee5413451be9",
+            "name": "rosacea%20(9).jpg",
+            "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/rosacea%20(9).jpg",
+            "size": {
+                "width": 637,
+                "height": 251
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}
