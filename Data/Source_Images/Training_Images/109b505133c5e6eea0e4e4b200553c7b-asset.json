@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "109b505133c5e6eea0e4e4b200553c7b",
+        "name": "psoriasis%20(261).jpg",
+        "path": "file:C:/Users/HP/Desktop/yolo_structure/Data/Source_Images/Training_Images/psoriasis%20(261).jpg",
+        "size": {
+            "width": 320,
+            "height": 213
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "qXF1VwIV3",
+            "type": "RECTANGLE",
+            "tags": [
+                "psoriasis"
+            ],
+            "boundingBox": {
+                "height": 43.08135042352191,
+                "width": 46.4360975681391,
+                "left": 164.0112763598449,
+                "top": 62.3355968927933
+            },
+            "points": [
+                {
+                    "x": 164.0112763598449,
+                    "y": 62.3355968927933
+                },
+                {
+                    "x": 210.44737392798402,
+                    "y": 62.3355968927933
+                },
+                {
+                    "x": 210.44737392798402,
+                    "y": 105.4169473163152
+                },
+                {
+                    "x": 164.0112763598449,
+                    "y": 105.4169473163152
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
